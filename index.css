@@ -1,0 +1,76 @@
+body {
+  font-family: "Press Start 2P", cursive;
+  margin: 25px;
+  padding: 25px;
+  background-color: #240630;
+  color: #fb52e2;
+}
+
+header {
+  text-align: center;
+  color: #f59eff;
+}
+
+section {
+  margin-top: 20px;
+}
+
+h2 {
+  color: #381ff7;
+}
+
+.game {
+  margin-bottom: 20px;
+}
+
+.game img {
+  max-width: 100%;
+  height: auto;
+  border: 3px solid #cf35b8;
+  border-radius: 8px;
+}
+
+.game p {
+  margin-top: 10px;
+}
+
+ol {
+  padding-left: 20px;
+}
+
+footer {
+  margin-top: 20px;
+  text-align: center;
+  color: #a362b0;
+}
+
+style
+  
+  /* Define the colors */
+    body {
+  background-color: #c9288e; /* Light purple background */
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  background-color: #8c7ae6; /* Purple table background */
+  color: #6701bc; /* White text */
+}
+
+th,
+td {
+  padding: 12px;
+  text-align: left;
+  border-bottom: 1px solid #250db0; /* White border between rows */
+}
+
+th {
+  background-color: #6c5ce7; /* Darker purple header background */
+}
+
+/* Style alternate rows for better readability */
+tr:nth-child(even) {
+  background-color: #ce76e1; /* Medium purple for even rows */
+}
